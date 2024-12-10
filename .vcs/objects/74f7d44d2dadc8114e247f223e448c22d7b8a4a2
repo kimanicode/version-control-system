@@ -1,0 +1,8 @@
+{
+  "message": "added thanos",
+  "timestamp": "2024-12-06T08:34:19.717Z",
+  "files": {
+    "file1.txt": ""
+  },
+  "parent": "603775ac70c26687ba9ffb78e64c546daaf0c2bc"
+}
